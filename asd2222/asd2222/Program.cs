@@ -12,7 +12,8 @@
             public int Square(int num)
             {
                 // TODO : Implement square calculation
-                throw new NotImplementedException();
+                int square = num * num;
+                return square;
             }
 
             /// <summary>
