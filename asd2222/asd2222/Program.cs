@@ -81,8 +81,14 @@
             /// <returns>The string "even" or the string "odd"</returns>
             public string EvenOdd(int num)
             {
-                // TODO : Determine if number is even or odd
-                throw new NotImplementedException();
+                if (num % 2 == 0)
+                {
+                    return "Even";
+                }
+                else
+                {
+                    return "Odd";
+                }
             }
 
             public static void Main(string[] args)
