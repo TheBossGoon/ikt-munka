@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toth.peter.sandor\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj": {}
+    "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toth.peter.sandor\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj": {
+    "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toth.peter.sandor\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj",
+        "projectUniqueName": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj",
         "projectName": "asd2222",
-        "projectPath": "C:\\Users\\toth.peter.sandor\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj",
-        "packagesPath": "C:\\Users\\toth.peter.sandor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toth.peter.sandor\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\obj\\",
+        "projectPath": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\asd2222.csproj",
+        "packagesPath": "C:\\Users\\ojetimi-puha.morgan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\toth.peter.sandor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ojetimi-puha.morgan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
