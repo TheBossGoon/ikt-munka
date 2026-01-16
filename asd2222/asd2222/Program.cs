@@ -53,7 +53,11 @@
             public string FortuneCookie()
             {
                 int num = new Random().Next(0, 5);
-                // TODO : Return fortune cookie response based on random number
+                if (num == 0) return "Your future looks bright";
+                if (num == 1) return "I see love in your future";
+                if (num == 2) return "Maybe you better stay home today";
+                if (num == 3) return "You will have fame and fortune";
+                if (num == 4) return "Happiness you will have";
                 throw new NotImplementedException();
             }
 
