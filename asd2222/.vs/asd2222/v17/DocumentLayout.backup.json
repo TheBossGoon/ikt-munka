@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Juhasz.Laszlo\\Desktop\\Juh\u00E1sz L\u00E1szl\u00F3 11F\\IKT\\projektek\\ikt-munka\\asd2222\\",
+  "WorkspaceRootPath": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8267FF3-294D-4933-8040-B55A2D96E7BE}|asd2222\\asd2222.csproj|c:\\users\\juhasz.laszlo\\desktop\\juh\u00E1sz l\u00E1szl\u00F3 11f\\ikt\\projektek\\ikt-munka\\asd2222\\asd2222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8267FF3-294D-4933-8040-B55A2D96E7BE}|asd2222\\asd2222.csproj|c:\\users\\ojetimi-puha.morgan\\documents\\github\\ikt-munka\\asd2222\\asd2222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8267FF3-294D-4933-8040-B55A2D96E7BE}|asd2222\\asd2222.csproj|solutionrelative:asd2222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Juhasz.Laszlo\\Desktop\\Juh\u00E1sz L\u00E1szl\u00F3 11F\\IKT\\projektek\\ikt-munka\\asd2222\\asd2222\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\Program.cs",
               "RelativeDocumentMoniker": "asd2222\\Program.cs",
-              "ToolTip": "C:\\Users\\Juhasz.Laszlo\\Desktop\\Juh\u00E1sz L\u00E1szl\u00F3 11F\\IKT\\projektek\\ikt-munka\\asd2222\\asd2222\\Program.cs",
+              "ToolTip": "C:\\Users\\ojetimi-puha.morgan\\Documents\\GitHub\\ikt-munka\\asd2222\\asd2222\\Program.cs",
               "RelativeToolTip": "asd2222\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T06:51:41.734Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
